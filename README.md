@@ -34,6 +34,8 @@ We provide the checkpoint and the data for three different scenarios of the pape
 1. In AIR.py, pick case = 'A' for the result of IV. B. Simulated Data: (1 + 1) Parallel Polarization Geometry. (Figure 6)
 2. In AIR.py, pick case = 'B' for the result of IV. C. Experimental Data: (2 + 1) REMPI of α-Pinene. (Figure 8)
 3. In AIR.py, pick case = 'B' for the result of IV. D. Simulated Data: (1 + 1) Orthogonal Polarization Geometry (Figure 12)	
+
+
 The results are saved respectively in Figure_6_prediction.mat, Figure_8_prediction.mat, Figure_12_prediction.mat. 
 
 ### 3. Plot the results
