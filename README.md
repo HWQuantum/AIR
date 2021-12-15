@@ -11,7 +11,6 @@ Chris Sparling<sup> 1,‡ </sup>, Alice Ruget<sup> 1,‡ </sup>, Jonathan Leach<
 <sup> ‡ </sup> These authors contributed equally to this work
 
 
-
 ## I. Dependencies 
 Python 3.8.11
 Tensorflow 2.4.1
@@ -30,7 +29,7 @@ AIR.py is used to train and test the network.
 After creating the dataset you can train the network by pick case = 'train' in AIR.py and specifying the path of the training dataset in save_path. 
 
 ### 2. Reproduce the examples of the paper
-We provide the checkpoint and the data for three different scenarios of the paper: 
+We provide the checkpoint and the data for three different scenarios of the paper at the DOI address: *address to come*. 
 
 1. In AIR.py, pick case = 'A' for the result of IV. B. Simulated Data: (1 + 1) Parallel Polarization Geometry. (Figure 6)
 2. In AIR.py, pick case = 'B' for the result of IV. C. Experimental Data: (2 + 1) REMPI of α-Pinene. (Figure 8)
